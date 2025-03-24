@@ -1,0 +1,12 @@
+.kgItem {
+  background-color: #02c39a;
+}
+
+.kgSpan {
+  font-weight: 500;
+  color: white;
+}
+.button{
+  float: right ;
+  background-color: whitesmoke;
+}
